@@ -1,6 +1,8 @@
-To start the product
+Instructions to start the server
+--------------------------------
 
-npm install
-node index.js
+`> npm install`
 
-Go to localhost:3000 in your browser
+`> node index.js`
+
+Go to `localhost:3000` in your browser
